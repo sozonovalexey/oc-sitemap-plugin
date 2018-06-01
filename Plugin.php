@@ -25,7 +25,7 @@ class Plugin extends PluginBase
             'description' => 'xeor.sitemap::lang.plugin.description',
             'author' => 'Sozonov Alexey',
             'icon' => 'icon-sitemap',
-            'homepage'    => 'https://bitbucket.org/sozonovalexey/oc-sitemap-plugin'
+            'homepage'    => 'https://github.com/sozonovalexey/oc-sitemap-plugin'
         ];
     }
 }
